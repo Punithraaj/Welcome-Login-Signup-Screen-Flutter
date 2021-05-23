@@ -30,4 +30,5 @@ class SocialIcon extends StatelessWidget {
       ),
     );
   }
+
 }
